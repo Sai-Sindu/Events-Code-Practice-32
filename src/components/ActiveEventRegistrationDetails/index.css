@@ -1,0 +1,89 @@
+/* Write your CSS here */
+.initial-event-registration-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 40%;
+}
+.active-event-description {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.yet-to-register-event-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 40%;
+}
+.yet-to-register-img {
+  height: 250px;
+  width: 100%;
+}
+.yet-to-register-event-description {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.yet-to-register-button {
+  background-color: #0967d2;
+  border-width: 0;
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+  outline: none;
+  color: #ffffff;
+}
+.registered-event-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 40%;
+}
+.registered-event-description {
+  color: #323f4b;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.registered-event-img {
+  height: 150px;
+  width: 150px;
+}
+.registration-closed-event-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 40%;
+}
+.registration-closed-event-img {
+  height: 250px;
+  width: 100%;
+}
+.registration-closed-event-title {
+  color: #323f4b;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.registration-closed-event-description {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+}

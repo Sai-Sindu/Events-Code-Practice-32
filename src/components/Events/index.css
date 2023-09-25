@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.events-container {
+  display: flex;
+  flex-direction: row;
+}
+.events-list-container {
+  background-color: #3a4b63;
+  width: 60%;
+  padding: 40px;
+}
+.events-list-card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 100%;
+}
+.event-title {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
